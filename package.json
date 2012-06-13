@@ -1,0 +1,19 @@
+{
+  "author": "Emily Rose <emily@contactvibe.com>",
+  "name": "riakstar",
+  "description": "bad-ass Riak client for Node.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nexxy/riakstar",
+  "repository": {
+    "url": ""
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "request": "~2.9.202"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
