@@ -2,7 +2,7 @@
   "author": "Emily Rose <emily@contactvibe.com>",
   "name": "riakstar",
   "description": "bad-ass Riak client for Node.js",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "homepage": "https://github.com/nexxy/riakstar",
   "repository": {
     "url": ""
