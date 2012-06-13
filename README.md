@@ -5,7 +5,14 @@ riakstar
 
 The web scale database client of the future is here (partially).
 
-## NOT AT ALL FUNCTIONAL YET :)
+## NOT REALLY THAT FUNCTIONAL YET :)
+
+Current Capabilities:
+
+ - `get(bucket, key, callback)`
+ - `save(bucket, key, data, meta, callback)`
+
+_NOTE:_ meta data is not yet properly parsed/stored
 
 ### MIT LICENSE
 
