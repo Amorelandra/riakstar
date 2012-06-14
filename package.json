@@ -5,6 +5,7 @@
   "version": "0.0.3",
   "homepage": "https://github.com/nexxy/riakstar",
   "repository": {
+    "type" : "git"
     "url": "https://github.com/nexxy/riakstar.git"
   },
   "main": "lib/index.js",
