@@ -114,4 +114,4 @@ vows.describe('HTTP Client').addBatch({
 			}
  		}
 	}
-}).run();
+}).export(module);

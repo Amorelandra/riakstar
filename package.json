@@ -9,7 +9,10 @@
     "url": "https://github.com/nexxy/riakstar.git"
   },
   "main": "lib/index.js",
-  "test": "test/index.js",
+  "scripts": {
+
+    "test": "./node_modules/.bin/vows ./test/*"
+  },
   "dependencies": {
     "request": "~2.9.202"
   },
