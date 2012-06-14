@@ -11,6 +11,9 @@ Current Capabilities:
 
  - `get(bucket, key, callback)`
  - `save(bucket, key, data, meta, callback)`
+ - `remove(bucket, key,callback)`
+
+Callbacks receive `err`, `res`, and sometimes `body` (as with get).
 
 _NOTE:_ meta data is not yet properly parsed/stored
 
