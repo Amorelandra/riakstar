@@ -1,0 +1,5 @@
+;(function() {
+		
+	require('./http-client');
+
+})();
