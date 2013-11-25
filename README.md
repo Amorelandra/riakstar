@@ -1,7 +1,7 @@
 riakstar
 ========
 
-##### bad-ass Riak client for Node.js
+##### bad-ass ninja rock star Riak client for Node.js
 
 The web scale database client of the future is here (partially).
 
